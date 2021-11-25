@@ -75,23 +75,42 @@ add:
  ![](16.png)
  
  
+ status on command prompt:
  
  ![](17.png)
  
+ fetch + pull on command prompt:
+ 
  ![](18.png)
+ 
+ add + status + commit on command prompt:
  
  ![](19.png)
  
+ name commit:
+ 
  ![](20.png)
+ 
+ add + commit on command prompt:
  
  ![](21.png)
  
+ authentification + push on command prompt::
+ 
  ![](22.png)
+ 
+ push on command prompt::
  
  ![](23.png)
 
+add + push on command prompt::
+
  ![](24.png)
  
+ history on command prompt (as log file):
+ 
  ![](25.png)
+ 
+ clone on command prompt:
  
  ![](26.png)
